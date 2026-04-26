@@ -1,0 +1,3 @@
+number 1 = 10
+numder 2 = 20
+print(number1 + number2)
